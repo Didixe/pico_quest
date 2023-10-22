@@ -1,0 +1,12 @@
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+  --primary: rgba(44, 84, 161);
+  --primary-hover: #1976d2;
+  --primary-focus: rgba(26, 55, 106);
+  --primary-inverse: black;
+  --color :white;
+  --border-radius: 0rem;
+  --dropdown-color: black;
+  text-align: center;
+}
+
