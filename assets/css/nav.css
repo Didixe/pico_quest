@@ -1,14 +1,6 @@
 nav{
-    width: 100%;
     background-color: var(--primary);
-    margin-right: auto;
-    justify-content: space-between;
     padding: 10px; 
-}
-
-
-[role=link].contrast:focus, a.contrast:focus {
-    background-color: rgb(26, 55, 106);
 }
 
 .home{
@@ -28,7 +20,5 @@ nav{
     width: 144px;
 }
 
-.listbox>li>a {
-    color: var(--primary-inverse);
-}
+
 

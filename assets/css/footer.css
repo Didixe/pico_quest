@@ -1,19 +1,15 @@
 .copyright{
-    width: 100%;
     background-color: var(--primary);
     padding: 10px;
-    height: 3rem;
 }
 
 .end>p{
     color: rgb(47, 73, 90);
-    margin-bottom:0px;
 }
 
 footer>.end{
     background-color: rgb(207, 207, 207);
     height: 10rem;
-
 }
 
 footer>div{

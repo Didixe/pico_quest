@@ -1,11 +1,4 @@
-header{
-    text-align: center;
-}
-
 h1{
     margin-bottom: 0px;
 }
 
-[role=link], a {
-    --color: rgba(44, 84, 161);
-}
